@@ -5,8 +5,9 @@ Skills: HTML, CSS, Javascript, ReactJS, NodeJS, MongoDB
 
 - 🔭 I’m currently working on ReactJS 
 - 🌱 I’m currently learning everything 😂 
-- ⚡ Fun fact: I love to play chess and listen music 
+- ⚡ Fun fact sometimes humorous
 
+<p align="left"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="react" width="20" height="20"/>  <img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Bootstrap-512.png" alt="bootstrap" width="20" height="20"/> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="20" height="20"/> <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="html5" width="20" height="20"/> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-20-555998.png" alt="javascript" width="20" height="20"/></p><p align="center">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kulu123-z)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://kuldipblog.hashnode.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kuldipmochi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kulu_198//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/kuldip_mochi)  
 
